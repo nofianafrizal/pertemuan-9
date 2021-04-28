@@ -7,7 +7,7 @@
 <h1>
 <?php
 
-// Nama : feri 
+// Nama : Nofian AFrizal
 // Kelas : 06TPLE012
 
 $sekarang = getdate();
